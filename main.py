@@ -1,0 +1,6 @@
+print("This is a simple calculator it only do additions")
+print("Enter Your first number")
+n1 = int(input())
+print("Enter Your second number")
+n2 = int(input())
+print("Your Answer is:",n1+n2)
